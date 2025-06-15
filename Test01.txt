@@ -1,7 +1,13 @@
 I am Swapnil.
 I was born in 2001 in Dhaka, Bangladesh.
+ssc 2017
 I will become a BCS cadre.
 I have completed my git part.
 i got bangla book 
+<<<<<<< HEAD
 practicing remote to local repository.
 Branch merging local to local.
+=======
+ practicing remote to local repository.
+I have started my fullstack web development job.
+>>>>>>> 7d43cd6e0cbe4795d85cf042494cdf442455a292
