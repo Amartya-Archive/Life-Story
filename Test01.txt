@@ -4,4 +4,5 @@ ssc 2017
 I will become a BCS cadre.
 I have completed my git part.
 i got bangla book 
-practicing remote to local repository.
+ practicing remote to local repository.
+I have started my fullstack web development job.
